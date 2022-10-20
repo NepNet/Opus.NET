@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>Opus</RootNamespace>
+        <LangVersion>7.2</LangVersion>
+    </PropertyGroup>
+</Project>
